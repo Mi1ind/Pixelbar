@@ -1,9 +1,10 @@
 # Pixelbar
 
-![Screenshot](img.png "Pixelbar")
-
-![MySetup](UsageExample.png "Example of a Setup using Pixelbar")
+![Screenshot](img.png)
  Toolbar for Ubersicht. Slightly modified version of [zenbar](https://github.com/zhaorz/zenbar/blob/master/README.md) by zhaorz
+
+![MySetup](UsageExample.png)
+ Sample usage of Pixelbar
 
 ## Installation
 
